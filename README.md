@@ -1,7 +1,5 @@
 # Real-World Ball Motion Anticipation and Human-Guided Robotic Interception
 
-**Humanoid Robotics Internship Challenge | October 2026**
-
 A robotic manipulation project that uses **self-collected, real-world ball-motion data** to drive a **Franka Emika Panda** manipulator in **MuJoCo**. A neural motion predictor anticipates the moving ball's position, a Jacobian-based controller executes an interception, and a residual imitation-learning policy improves grasping using human-guided corrections.
 
 ## Demonstrations
