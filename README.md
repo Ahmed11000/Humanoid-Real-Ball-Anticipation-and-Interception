@@ -217,5 +217,3 @@ python evaluate_hybrid_il.py --headless
 - **Simulation gap:** Success is measured in MuJoCo, not verified on a physical Panda. Contact mechanics, ball tracking noise, and camera calibration may differ on real hardware.
 - **Human supervision:** Corrected demonstrations are collected through temporary paused-scene edits; they are not full real-time teleoperated dynamic trajectories.
 
-
-This repository was developed as a submission for the Humanoid Robotics internship challenge.
